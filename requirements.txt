@@ -1,1 +1,6 @@
 tqdm
+numpy
+scikit-learn
+opencv-python
+face_recognition
+streamlit
