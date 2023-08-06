@@ -43,6 +43,7 @@ faces based on their identity.
 # Setup in the Hugging Face server
 
 - Create an account in the Hugging Face server.
-- Select to create an streamlit app.
+- Select to create an streamlit space, give the name of your choice. Select the license and then select the streamlit.
+- ![img.jpg](img.png)
 - Upload all these files into the space that you have created and just wait.
 
