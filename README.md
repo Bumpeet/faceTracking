@@ -32,6 +32,6 @@ faces based on their identity.
 
 - Create an account in the Hugging Face server.
 - Select to create an streamlit space, give the name of your choice. Select the license and then select the streamlit.
-- ![img.jpg](img.png)
+- ![img.jpg](https://github.com/Bumpeet/faceTracking/assets/86848360/f0b52f4b-c606-4caa-8541-c655106a3933)
 - Upload all these files into the space that you have created and just wait.
 
