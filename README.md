@@ -1,6 +1,6 @@
 Check out the app at https://huggingface.co/spaces/Bumpeet/faceTracking
 
-# Instructions on how to run on the local setup
+# Instructions on how to run the Task-1 on the local setup
 - run these commands initially in the git bash
     - `git lfs install`
     - `git clone https://huggingface.co/spaces/Bumpeet/faceTracking`
