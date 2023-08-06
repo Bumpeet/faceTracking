@@ -1,16 +1,4 @@
----
-title: FaceTracking
-emoji: 🏃
-colorFrom: yellow
-colorTo: red
-sdk: streamlit
-sdk_version: 1.25.0
-app_file: app.py
-pinned: false
-license: unknown
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the app at https://huggingface.co/spaces/Bumpeet/faceTracking
 
 # Instructions on how to run on the local setup
 - run these commands initially in the git bash
